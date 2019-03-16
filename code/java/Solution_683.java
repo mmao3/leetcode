@@ -1,6 +1,6 @@
 // solution 1 Interate over time
 public class Solution_683 {
-	public int kEmptySlots(int[] flowers, int k) {
+    public int kEmptySlots(int[] flowers, int k) {
         if (flowers == null || flowers.length == 0 || k < 0) {
             return -1;
         }
@@ -22,8 +22,7 @@ public class Solution_683 {
 
 // solution 2 Interate over position
 public class Solution_683_1 {
-	public int kEmptySlots(int[] flowers, int k) {
-        public int kEmptySlots(int[] flowers, int k) {
+    public int kEmptySlots(int[] flowers, int k) {
         if (flowers == null || flowers.length == 0 || k < 0) {
             return -1;
         }
@@ -44,6 +43,5 @@ public class Solution_683_1 {
             }
         }
         return res == n + 1 ? - 1 : res;
-    }
     }
 }
