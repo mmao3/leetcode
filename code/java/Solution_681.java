@@ -1,4 +1,4 @@
-class Solution {
+class Solution_681 {
     public String nextClosestTime(String time) {
         if (time == null) {
             return "";
