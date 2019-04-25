@@ -23,6 +23,10 @@
 **04/11/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[393. UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.11-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_393.java)**<br />
 **04/12/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.12.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_975.java)**<br />
 **04/12/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[394. Decode String](https://leetcode.com/problems/decode-string/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.12-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_394.java)**<br />
-**04/12/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.12-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_844.java)**<br />
+**04/13/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.12-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_844.java)**<br />
+**04/13/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.13.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_56.java)**<br />
+**04/15/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.15.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_218.java)**<br />
+**04/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[422. Valid Word Square](https://leetcode.com/problems/valid-word-square/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.16.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_422.java)**<br />
+
 
 
