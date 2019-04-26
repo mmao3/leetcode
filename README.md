@@ -27,6 +27,11 @@
 **04/13/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.13.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_56.java)**<br />
 **04/15/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.15.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_218.java)**<br />
 **04/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[422. Valid Word Square](https://leetcode.com/problems/valid-word-square/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.16.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_422.java)**<br />
+**04/24/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[146. LRU Cache](https://leetcode.com/problems/lru-cache/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.24.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_146.java)**<br />
+**04/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.25.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_200.java)**<br />
+**04/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.25-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_305.java)**<br />
+**04/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[346. Moving Average from Data Stream](https://leetcode.com/problems/number-of-islands-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.25-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_346.java)**<br />
+
 
 
 
