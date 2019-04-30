@@ -1,5 +1,6 @@
 # leetcode
-### **FINISHED 8/961**
+### **FINISHED 41/986**
+### **SKIPPED [308](https://leetcode.com/problems/range-sum-query-2d-mutable/) [843](https://leetcode.com/problems/guess-the-word/) [489](https://leetcode.com/problems/robot-room-cleaner/) [753](https://leetcode.com/problems/cracking-the-safe/) [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) [351](https://leetcode.com/problems/android-unlock-patterns/)**
 **03/14/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.14.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_683.java)** <br />
 **03/15/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.15.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_388.java)**<br />
 **03/18/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[681. Next Closest Time](https://leetcode.com/problems/next-closest-time)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.18.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_681.java)**<br />
@@ -38,6 +39,13 @@
 **04/28/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.28-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1034.java)**<br />
 **04/28/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.28-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1035.java)**<br />
 **04/28/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1036. Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.28-4.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1036.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_157.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_158.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_228.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[289. Game of Life](https://leetcode.com/problems/game-of-life/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_289.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-4.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_259.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-5.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_42.java)**<br />
+**04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-6.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_407.java)**<br />
 
 
 
