@@ -1,5 +1,5 @@
 # leetcode
-### **FINISHED 41/986**
+### **FINISHED 58/986**
 ### **SKIPPED [308](https://leetcode.com/problems/range-sum-query-2d-mutable/) [843](https://leetcode.com/problems/guess-the-word/) [489](https://leetcode.com/problems/robot-room-cleaner/) [753](https://leetcode.com/problems/cracking-the-safe/) [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) [351](https://leetcode.com/problems/android-unlock-patterns/)**
 **03/14/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.14.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_683.java)** <br />
 **03/15/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.15.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_388.java)**<br />
@@ -46,6 +46,23 @@
 **04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-4.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_259.java)**<br />
 **04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-5.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_42.java)**<br />
 **04/29/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.29-6.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_407.java)**<br />
+**04/30/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.30.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_857.java)**<br />
+**04/30/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.30-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_317.java)**<br />
+**04/30/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.30-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_737.java)**<br />
+**04/30/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[734. Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.30-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_734.java)**<br />
+**04/30/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.30-4.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_299.java)**<br />
+**04/30/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/4.30-5.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_947.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_149.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[284. Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_284.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_345.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_252.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-4.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_253.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-5.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_329.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-6.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_642.java)**<br />
+**05/1/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.1-7.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_208.java)**<br />
+
+
+
 
 
 
