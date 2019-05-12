@@ -94,6 +94,9 @@
 **05/8/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.8-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_410.java)**<br />
 **05/9/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.9.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_297.java)**<br />
 **05/9/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.9-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_3.java)**<br />
+**05/10/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.10.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_616.java)**<br />
+**05/11/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.11.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_28.java)**<br />
+**05/11/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[471. Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.11-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_471.java)**<br />
 
 
 
