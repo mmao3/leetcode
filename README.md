@@ -1,6 +1,6 @@
 # leetcode
 ### **FINISHED 58/986**
-### **SKIPPED [308](https://leetcode.com/problems/range-sum-query-2d-mutable/) [843](https://leetcode.com/problems/guess-the-word/) [489](https://leetcode.com/problems/robot-room-cleaner/) [753](https://leetcode.com/problems/cracking-the-safe/) [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) [351](https://leetcode.com/problems/android-unlock-patterns/)**
+### **SKIPPED [308](https://leetcode.com/problems/range-sum-query-2d-mutable/) [843](https://leetcode.com/problems/guess-the-word/) [489](https://leetcode.com/problems/robot-room-cleaner/) [753](https://leetcode.com/problems/cracking-the-safe/) [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) [351](https://leetcode.com/problems/android-unlock-patterns/) [391](https://leetcode.com/problems/perfect-rectangle/)**
 ### **NEED TO LEARN  [Morris Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/)**
 **03/14/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[683. K Empty Slots](https://leetcode.com/problems/k-empty-slots/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.14.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_683.java)** <br />
 **03/15/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[388. Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/mar/3.15.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_388.java)**<br />
@@ -97,9 +97,10 @@
 **05/10/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[616. Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.10.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_616.java)**<br />
 **05/11/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.11.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_28.java)**<br />
 **05/11/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[471. Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.11-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_471.java)**<br />
-
-
-
-
+**05/11/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1043. Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.11-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1043.java)**<br />
+**05/12/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.12.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1041.java)**<br />
+**05/12/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.12-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1042.java)**<br />
+**05/13/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[490. The Maze](https://leetcode.com/problems/the-maze/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.13.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_490.java)**<br />
+**05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_8.java)**<br />
 
 
