@@ -102,5 +102,12 @@
 **05/12/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1042. Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.12-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1042.java)**<br />
 **05/13/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[490. The Maze](https://leetcode.com/problems/the-maze/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.13.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_490.java)**<br />
 **05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_8.java)**<br />
+**05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_11.java)**<br />
+**05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_224.java)**<br />
+**05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_150.java)**<br />
+**05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16-4.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_227.java)**<br />
+**05/16/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.16-5.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_772.java)**<br />
+
+
 
 
