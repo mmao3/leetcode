@@ -133,6 +133,17 @@
 **05/23/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.23-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_703.java)**<br />
 **05/24/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[139. Word Break](https://leetcode.com/problems/word-break/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.24.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_139.java)**<br />
 **05/24/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[140. Word Break](https://leetcode.com/problems/word-break-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.24-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_140.java)**<br />
+**05/24/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[145. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.24-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_5.java)**<br />
+**05/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.25.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_909.java)**<br />
+**05/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.25-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_101.java)**<br />
+**05/26/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1051. Height Checker](https://leetcode.com/problems/height-checker/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.26.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1051.java)**<br />
+**05/26/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1052. Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.26-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1052.java)**<br />
+**05/26/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1053. Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.26-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1053.java)**<br />
+**05/26/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.26-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1054.java)**<br />
+**05/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[207. Course Schedule](https://leetcode.com/problems/course-schedule/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.27.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_207.java)**<br />
+**05/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.27-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_210.java)**<br />
+
+
 
 
 
