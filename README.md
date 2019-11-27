@@ -142,6 +142,8 @@
 **05/26/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1054. Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.26-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1054.java)**<br />
 **05/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[207. Course Schedule](https://leetcode.com/problems/course-schedule/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.27.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_207.java)**<br />
 **05/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.27-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_210.java)**<br />
+**11/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.25.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_20.java)**<br />
+**11/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.25-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_22.java)**<br />
 
 
 
