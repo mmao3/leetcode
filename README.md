@@ -144,6 +144,13 @@
 **05/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/apr/5.27-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_210.java)**<br />
 **11/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.25.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_20.java)**<br />
 **11/25/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.25-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_22.java)**<br />
+**11/26/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.26.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_621.java)**<br />
+**11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[358. Rearrange String k Distance Apart](https://leetcode.com/problems/task-scheduler/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_358.java)**<br />
+**11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[767. Reorganize String](https://leetcode.com/problems/reorganize-string/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_767.java)**<br />
+**11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_435.java)**<br />
+**11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_452.java)**<br />
+
+
 
 
 
