@@ -149,6 +149,10 @@
 **11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[767. Reorganize String](https://leetcode.com/problems/reorganize-string/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_767.java)**<br />
 **11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_435.java)**<br />
 **11/27/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[452. Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.27-3.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_452.java)**<br />
+**11/28/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.28.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_349.java)**<br />
+**11/28/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[350. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.28-1.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_350.java)**<br />
+**11/28/2019**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[1213. Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[analysis](2019/nov/11.28-2.md)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[JAVA](code/java/Solution_1213.java)**<br />
+
 
 
 
